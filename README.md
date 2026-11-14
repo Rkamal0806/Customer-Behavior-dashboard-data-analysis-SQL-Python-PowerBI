@@ -186,24 +186,6 @@ The dashboard gives executives a single-page view of customer behavior:
 └── README.md
 ```
 
----
-
-## ▶️ How to Run
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Rkamal0806/Customer-Behavior-dashboard-data-analysis-SQL-Python-PowerBI.git
-   cd Customer-Behavior-dashboard-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Python cleaning**
-   ```bash
-   pip install pandas jupyter sqlalchemy psycopg2-binary
-   jupyter notebook Customer_Shopping_Behavior_Analysis.ipynb
-   ```
-3. **SQL:** load the cleaned data into a PostgreSQL table named `customer`, then run `customer_behavior_sql_queries.sql`.
-4. **Dashboard:** open `customer_behavior_dashboard.pbix` in **Power BI Desktop**.
-
----
 
 ## 🧰 Skills Demonstrated
 
@@ -215,10 +197,4 @@ The dashboard gives executives a single-page view of customer behavior:
 
 ---
 
-## 👤 About Me
 
-**Kamal**, aspiring Data Analyst passionate about turning data into decisions.
-
-🔗 [GitHub](https://github.com/Rkamal0806) · 💼 LinkedIn: *add your link* · 📧 Email: *add your email*
-
-⭐ *If you found this project useful, please consider giving it a star!*
